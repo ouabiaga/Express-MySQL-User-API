@@ -1,0 +1,7 @@
+{
+    "host":"0.0.0.0",
+    "port":3000,
+    "mysql_host":"your host ip adress",
+    "mysql_username":"Your_username",
+    "mysql_password":"Your_pass"
+}
